@@ -55,6 +55,13 @@ Coordinate systems involved in the Helmet system.
 
 
 ## 2.7 Evaluation of SOTA SLAM
-
+### 2.7.1 Evaluation Tool and Criteria 
+We use [evo](https://github.com/MichaelGrupp/evo) to evaluate results with four metrics:  
+* APE_Trans(m): Absolute pose error about translation.
+* APE_Angle(deg): Absolute pose error about angle.
+* RPE_Trans(m/frame): Relative pose error about translation.
+* RPE_Angle(deg/frame): Relative pose error about angle.
+### 2.7.2 Results of SOTA Algorithm
+We test our dataset using [Fast_lio](https://github.com/hku-mars/FAST_LIO) and [Faster_Lio](https://github.com/gaoxiang12/faster-lio). 
 
 
