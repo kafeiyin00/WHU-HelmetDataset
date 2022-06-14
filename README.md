@@ -62,13 +62,10 @@ We use [evo](https://github.com/MichaelGrupp/evo) to evaluate results with four 
 * RPE_Trans(m/frame): Relative pose error about translation.
 * RPE_Angle(deg/frame): Relative pose error about angle.
 ### 2.7.2 Results of SOTA Algorithm
-We test our dataset using [Fast_lio](https://github.com/hku-mars/FAST_LIO) and [Faster_Lio](https://github.com/gaoxiang12/faster-lio). 									
-![image](https://user-images.githubusercontent.com/52630624/172034516-7ef5ea8c-1175-43e1-906d-4aebfc7a88e6.png)										
-![image](https://user-images.githubusercontent.com/52630624/172034536-153172ba-858d-4297-b96a-479d06b38ca7.png)									
-![image](https://user-images.githubusercontent.com/52630624/172034559-53db4f73-d22b-45ae-ad01-1a6d51b59efe.png)
-![image](https://user-images.githubusercontent.com/52630624/172034570-111ee87e-8697-4cd2-8f08-611de41ad384.png)									
-![image](https://user-images.githubusercontent.com/52630624/172034578-f8d8e7a4-b86b-4034-912a-7eb0a0a17981.png)
-![image](https://user-images.githubusercontent.com/52630624/172034591-b231b336-c20b-4c40-a76a-b036dc86940b.png)
+We test our dataset using [Fast_lio](https://github.com/hku-mars/FAST_LIO), [LIO_Livox](https://github.com/Livox-SDK/LIO-Livox), [Faster_Lio](https://github.com/gaoxiang12/faster-lio) and [LOAM_Livox](https://github.com/hku-mars/loam_livox). The following are results:				
+![image](https://user-images.githubusercontent.com/52630624/173481649-a1293475-840a-4f42-a152-571379554ceb.png)
+
+
 
 
 
