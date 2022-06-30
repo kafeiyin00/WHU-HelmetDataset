@@ -71,8 +71,9 @@ We use [evo](https://github.com/MichaelGrupp/evo) to evaluate results with four 
 * RPE_Trans(m/frame): Relative pose error about translation.
 * RPE_Angle(deg/frame): Relative pose error about angle.
 ### 2.7.2 Results of SOTA Algorithm
-We test our dataset using [Fast_lio](https://github.com/hku-mars/FAST_LIO), [LIO_Livox](https://github.com/Livox-SDK/LIO-Livox), [Faster_Lio](https://github.com/gaoxiang12/faster-lio) and [LOAM_Livox](https://github.com/hku-mars/loam_livox). The following are results:	
-![image](https://user-images.githubusercontent.com/52630624/173481649-a1293475-840a-4f42-a152-571379554ceb.png)
+We test our dataset using [Fast_lio](https://github.com/hku-mars/FAST_LIO), [LIO_Livox](https://github.com/Livox-SDK/LIO-Livox) and [LOAM_Livox](https://github.com/hku-mars/loam_livox). The following are results:							
+![image](https://user-images.githubusercontent.com/52630624/176693562-a29f58b2-b9b3-4150-b6b7-eafe6ba1d7a6.png)
+
 
 
 
