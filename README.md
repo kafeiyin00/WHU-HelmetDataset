@@ -15,11 +15,11 @@ Main web page of our group : http://3s.whu.edu.cn/ybs/index.htm
 
 
 
-<img src="https://pic.imgdb.cn/item/6284bbfd09475431295a2f1f.jpg" style="zoom: 67%;" />
+![image](https://user-images.githubusercontent.com/52630624/229660634-67254e65-dd60-4ed4-bc42-d0b896cfe5c8.png)
 
 Mechanical structure design of the WHU-Helmet. (a) Head-mounted system. (b) Head-mounted system with a reference FOG (Fiber Optic Gyro) IMU.
 
-<img src="https://pic.imgdb.cn/item/6284bc3409475431295a7936.jpg" style="zoom: 80%;" />
+![image](https://user-images.githubusercontent.com/52630624/229660876-3a5f2655-56f1-4bcf-93ca-6f520a5871c6.png)
 
 Coordinate systems involved in the Helmet system.
 
