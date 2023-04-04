@@ -61,16 +61,31 @@ Coordinate systems involved in the Helmet system.
 
 ![image](https://user-images.githubusercontent.com/52630624/229661344-45ffc3fe-e494-431b-8d03-3dbdd49bc300.png)
 
+## 2.7 Calibration
+we provode the extrinsic parameters for LiDAR-IMU，LiDAR-camera, and camera intrinsic parameters in the calibration folder.
+
+## 2.8 Run Dataset
+### Data preprocess (Important)
+We provide the rosbag (link) for running. Before you play the bag, use the rosbag_edit.cpp
+to preprocess the data.
 
 
-## 2.7 Evaluation of SOTA SLAM
-### 2.7.1 Evaluation Tool and Criteria 
+`rosrun your_package_name rosbag_edit_node $input_rosbag_path $output_rosbag_path
+`
+### Example for running [fast-lio2] (https://github.com/hku-mars/FAST_LIO)
+In the config_file folder, We provide the config file  for running fast-lio2. You can easily use it for running.
+
+
+
+
+## 2.9 Evaluation of SOTA SLAM
+### 2.9.1 Evaluation Tool and Criteria 
 We use [evo](https://github.com/MichaelGrupp/evo) to evaluate results with four metrics:  
 * APE_Trans(m): Absolute pose error about translation.
 * APE_Angle(deg): Absolute pose error about angle.
 * RPE_Trans(m/frame): Relative pose error about translation.
 * RPE_Angle(deg/frame): Relative pose error about angle.
-### 2.7.2 Results of SOTA Algorithm
+### 2.9.2 Results of SOTA Algorithm
 We test our dataset using [Fast_lio](https://github.com/hku-mars/FAST_LIO), [LIO_Livox](https://github.com/Livox-SDK/LIO-Livox) , [LOAM_Livox](https://github.com/hku-mars/loam_livox) and [MULLS](https://github.com/YuePanEdward/MULLS). The following are results:								
 ![image](https://user-images.githubusercontent.com/52630624/199044683-ebec2893-fd60-42a1-a96d-fada7ea65fee.png)
 
