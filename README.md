@@ -25,7 +25,7 @@ Coordinate systems involved in the Helmet system.
 
 # 2. Dataset overview
 
-<img src="https://pic.imgdb.cn/item/6284c8d709475431296abbe3.jpg" style="zoom: 80%;" />
+![image](https://user-images.githubusercontent.com/52630624/229661666-883be4d6-b9c7-4037-afcb-13b8a50186f6.png)
 
 ## 2.1 Forest
 
