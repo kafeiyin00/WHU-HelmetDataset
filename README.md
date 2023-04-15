@@ -64,9 +64,9 @@ Coordinate systems involved in the Helmet system.
 ## 2.7 Calibration
 we provide the extrinsic parameters for LiDAR-IMU，LiDAR-camera, and camera intrinsic parameters in the calibration folder.
 
-The extrinsic parameters of LiDAR-IMU are calculated using the AFLI-Calib method which will be available soon. 
+The extrinsic parameters of LiDAR-IMU are calculated using the [AFLI-Calib](https://www.sciencedirect.com/science/article/pii/S092427162300093X) 
 
-Weitong Wu, Jianping Li, Chi Chen, Bisheng Yang,et al., AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry. ISPRS Jouranl of Photogrammetry and Remote Sensing, 2023.
+Weitong Wu, Jianping Li, Chi Chen, Bisheng Yang,et al.,2023. AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry. ISPRS Jouranl of Photogrammetry and Remote Sensing.199,157-181.https://doi.org/10.1016/j.isprsjprs.2023.04.004.
 
 ## 2.8 Run Dataset
 ### Data preprocess (Important)
