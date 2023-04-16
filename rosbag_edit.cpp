@@ -1,8 +1,9 @@
 ///rosbag rewrite, and reorganize data by header timestamp
-///support sensor_msgs::IMU CompressedImage and livox msg
+///support sensor_msgs::IMU CompressedImage,livox_ros_driver::CustomMsg and sensor_msgs::Imu
 ///Create Time: 2022.6.12
 ///Update Time: 2022.11.10: IMU msg preprocess, change the coordinate system and change degree to rad for helmet data
-///Author: WeitongWu, Wuhan University
+///Update Time: 2023.04.16: provide the option for organizing date by the receive order when recording. You can comment(uncomment) the bag_out.write() function for using it.
+///Author: Weitong Wu, Wuhan University
 ///Contact: wwtgeomatics@gmail.com
 
 #include <livox_ros_driver/CustomMsg.h>
@@ -43,15 +44,18 @@ int main(int argc, char **argv) {
                 imu_msg.linear_acceleration.y = imu_msg_tmp.linear_acceleration.z;
                 imu_msg.linear_acceleration.z = imu_msg_tmp.linear_acceleration.x;
             }
-            bag_out.write("/imu0", imu_msg.header.stamp, imu_msg);
+            //bag_out.write("/imu0", imu_msg.header.stamp, imu_msg);
+	    bag_out.write("/imu0", m.getTime(), imu_msg);
         }
         if (m.isType<livox_ros_driver::CustomMsg>()) {
             auto lidar_msg = m.instantiate<livox_ros_driver::CustomMsg>();
-            bag_out.write("/livox/lidar", lidar_msg->header.stamp, lidar_msg);
+            //bag_out.write("/livox/lidar", lidar_msg->header.stamp, lidar_msg);
+	    bag_out.write("/livox/lidar", m.getTime(), lidar_msg);
         }
         if(m.isType<sensor_msgs::CompressedImage>()){
             auto image_msg = m.instantiate<sensor_msgs::CompressedImage>();
-            bag_out.write("/camera0/compressed", image_msg->header.stamp, image_msg);
+            //bag_out.write("/camera0/compressed", image_msg->header.stamp, image_msg);
+            bag_out.write("/camera0/compressed", m.getTime(), image_msg);
         }
     }
     bag_in.close();
