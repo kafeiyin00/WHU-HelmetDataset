@@ -1,19 +1,13 @@
 # WHU-Helmet Dataset
 
-The complete data set will be released after the peer-reviewed paper is accepted.
-
 Main web page of our group : http://3s.whu.edu.cn/ybs/index.htm
 
 ![](https://pic.imgdb.cn/item/62b0366d0947543129e8cb24.jpg)
 
-
-![](https://pic.imgdb.cn/item/62b036f70947543129e9a739.jpg)
-
-
+Paper Link:
+[ WHU-Helmet: A helmet-based multi-sensor SLAM dataset for the evaluation of real-time 3D mapping in large-scale GNSS-denied environments](https://ieeexplore.ieee.org/document/10123040/authors#authors)
 
 # 1. Hardware configuration 
-
-
 
 ![image](https://user-images.githubusercontent.com/52630624/229660634-67254e65-dd60-4ed4-bc42-d0b896cfe5c8.png)
 
@@ -23,9 +17,24 @@ Mechanical structure design of the WHU-Helmet. (a) Head-mounted system. (b) Head
 
 Coordinate systems involved in the Helmet system.
 
-# 2. Dataset overview
+# 2. Dataset links and overview
 
-![image](https://user-images.githubusercontent.com/52630624/229661666-883be4d6-b9c7-4037-afcb-13b8a50186f6.png)
+
+| Scens | Bag Links | GT|
+|--|--|--|
+| 1_forest | [1_forest_2021-12-06-11-10-14.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111016) ; [1_forest_2021-12-06-11-10-14.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111015)| Comming Soon
+| 2_mountain | [2_mountain_2021-11-12-12-31-45.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111018) ; [2_mountain_2021-11-12-12-31-45.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111017)| Comming Soon
+|3.1_underground_tunnel|[3.1_underground_tunnel_2021-11-14-10-21-01.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111019)|Comming Soon
+|3.2_underground_park|[3.2_underground_park_2021-12-29-15-05-33.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111022) ; [3.3_underground_subway_2021-12-29-16-19-51.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111021)|Comming Soon
+|3.3_underground_subway|[3.3_underground_subway_2021-12-29-16-19-51.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111021) ; [3.3_underground_subway_2021-12-29-16-19-51.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111020)|Comming Soon
+|4_Infrustracture|[4_Infrustracture_2021-11-14-09-18-30.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111014)|Comming Soon
+|5.1_Heritage_library|[5.1_Heritage_library_2021-11-10-16-03-20.bag](https://researchdata.ntu.edu.sg/api/access/datafile/110602)|Comming Soon
+|5.2_Heritage_residence|[5.2_Heritage_residence](https://researchdata.ntu.edu.sg/api/access/datafile/111010)|Comming Soon
+|6.1_roadside_campus|[6.1_roadside_campus_2021-11-12-10-10-57.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111011); [6.1_roadside_campus_2021-11-12-10-10-57.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111012)|Comming Soon
+|6.2_roadside_street|[6.2_roadside_street_2021-12-29-11-12-17.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111024); [6.2_roadside_street_2021-12-29-11-12-17.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111025)|Comming Soon
+|6.3_roadside_mall|[6.3_roadside_mall_2021-12-03-11-10-58.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111023)|Comming Soon
+
+
 
 ## 2.1 Forest
 
