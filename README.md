@@ -29,7 +29,7 @@ Coordinate systems involved in the Helmet system.
 |3.3_underground_subway|[3.3_underground_subway_2021-12-29-16-19-51.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111021) ; [3.3_underground_subway_2021-12-29-16-19-51.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111020)|Comming Soon
 |4_Infrustracture|[4_Infrustracture_2021-11-14-09-18-30.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111014)|Comming Soon
 |5.1_Heritage_library|[5.1_Heritage_library_2021-11-10-16-03-20.bag](https://researchdata.ntu.edu.sg/api/access/datafile/110602)|Comming Soon
-|5.2_Heritage_residence|[5.2_Heritage_residence](https://researchdata.ntu.edu.sg/api/access/datafile/111010)|Comming Soon
+|5.2_Heritage_residence|[5.2_Heritage_residence_2021-12-30-16-37-49.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111010)|Comming Soon
 |6.1_roadside_campus|[6.1_roadside_campus_2021-11-12-10-10-57.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111011); [6.1_roadside_campus_2021-11-12-10-10-57.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111012)|Comming Soon
 |6.2_roadside_street|[6.2_roadside_street_2021-12-29-11-12-17.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111024); [6.2_roadside_street_2021-12-29-11-12-17.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111025)|Comming Soon
 |6.3_roadside_mall|[6.3_roadside_mall_2021-12-03-11-10-58.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111023)|Comming Soon
