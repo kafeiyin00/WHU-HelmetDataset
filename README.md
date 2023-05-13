@@ -19,8 +19,6 @@ Coordinate systems involved in the Helmet system.
 
 # 2. Dataset links and overview
 
-If you need GT files, please send us a E-mail with your organization information to (kafeiyin00@gmail.com).  
-
 | Scenes | Bag Links |
 |--|--|--|
 | 1_forest | [1_forest_2021-12-06-11-10-14.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111016) ; [1_forest_2021-12-06-11-10-14.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111015)|
@@ -35,6 +33,9 @@ If you need GT files, please send us a E-mail with your organization information
 |6.2_roadside_street|[6.2_roadside_street_2021-12-29-11-12-17.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111024); [6.2_roadside_street_2021-12-29-11-12-17.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111025)|
 |6.3_roadside_mall|[6.3_roadside_mall_2021-12-03-11-10-58.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111023)|
 
+
+
+If you need GT files, please send us a E-mail with your organization information to (kafeiyin00@gmail.com).  
 
 
 ## 2.1 Forest
