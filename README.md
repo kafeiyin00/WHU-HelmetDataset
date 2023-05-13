@@ -19,20 +19,21 @@ Coordinate systems involved in the Helmet system.
 
 # 2. Dataset links and overview
 
+If you need GT files, please send us a E-mail with your organization information to (kafeiyin00@gmail.com).  
 
-| Scens | Bag Links | GT|
+| Scenes | Bag Links |
 |--|--|--|
-| 1_forest | [1_forest_2021-12-06-11-10-14.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111016) ; [1_forest_2021-12-06-11-10-14.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111015)| Comming Soon
-| 2_mountain | [2_mountain_2021-11-12-12-31-45.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111018) ; [2_mountain_2021-11-12-12-31-45.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111017)| Comming Soon
+| 1_forest | [1_forest_2021-12-06-11-10-14.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111016) ; [1_forest_2021-12-06-11-10-14.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111015)|
+| 2_mountain | [2_mountain_2021-11-12-12-31-45.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111018) ; [2_mountain_2021-11-12-12-31-45.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111017)|
 |3.1_underground_tunnel|[3.1_underground_tunnel_2021-11-14-10-21-01.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111019)|Comming Soon
-|3.2_underground_park|[3.2_underground_park_2021-12-29-15-05-33.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111022) ; [3.3_underground_subway_2021-12-29-16-19-51.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111021)|Comming Soon
-|3.3_underground_subway|[3.3_underground_subway_2021-12-29-16-19-51.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111021) ; [3.3_underground_subway_2021-12-29-16-19-51.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111020)|Comming Soon
-|4_Infrustracture|[4_Infrustracture_2021-11-14-09-18-30.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111014)|Comming Soon
+|3.2_underground_park|[3.2_underground_park_2021-12-29-15-05-33.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111022) ; [3.3_underground_subway_2021-12-29-16-19-51.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111021)|
+|3.3_underground_subway|[3.3_underground_subway_2021-12-29-16-19-51.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111021) ; [3.3_underground_subway_2021-12-29-16-19-51.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111020)|
+|4_Infrustracture|[4_Infrustracture_2021-11-14-09-18-30.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111014)|
 |5.1_Heritage_library|[5.1_Heritage_library_2021-11-10-16-03-20.bag](https://researchdata.ntu.edu.sg/api/access/datafile/110602)|Comming Soon
-|5.2_Heritage_residence|[5.2_Heritage_residence_2021-12-30-16-37-49.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111010)|Comming Soon
-|6.1_roadside_campus|[6.1_roadside_campus_2021-11-12-10-10-57.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111011); [6.1_roadside_campus_2021-11-12-10-10-57.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111012)|Comming Soon
-|6.2_roadside_street|[6.2_roadside_street_2021-12-29-11-12-17.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111024); [6.2_roadside_street_2021-12-29-11-12-17.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111025)|Comming Soon
-|6.3_roadside_mall|[6.3_roadside_mall_2021-12-03-11-10-58.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111023)|Comming Soon
+|5.2_Heritage_residence|[5.2_Heritage_residence_2021-12-30-16-37-49.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111010)|
+|6.1_roadside_campus|[6.1_roadside_campus_2021-11-12-10-10-57.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111011); [6.1_roadside_campus_2021-11-12-10-10-57.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111012);[6.1_roadside_campus_2021-11-12-10-10-57.7z.003](https://researchdata.ntu.edu.sg/api/access/datafile/111013)|
+|6.2_roadside_street|[6.2_roadside_street_2021-12-29-11-12-17.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111024); [6.2_roadside_street_2021-12-29-11-12-17.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111025)|
+|6.3_roadside_mall|[6.3_roadside_mall_2021-12-03-11-10-58.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111023)|
 
 
 
