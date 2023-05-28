@@ -7,11 +7,17 @@ Main web page of our group : http://3s.whu.edu.cn/ybs/index.htm
 If you use the dataset, please cite our paper:
 
 @article{li2023whu,
+
   title={WHU-Helmet: A helmet-based multi-sensor SLAM dataset for the evaluation of real-time 3D mapping in large-scale GNSS-denied environments},
+  
   author={Li, Jianping and Wu, Weitong and Yang, Bisheng and Zou, Xianghong and Yang, Yandi and Zhao, Xin and Dong, Zhen},
+  
   journal={IEEE Transactions on Geoscience and Remote Sensing},
+  
   year={2023},
+  
   publisher={IEEE}
+  
 }
 
 Paper Link:
