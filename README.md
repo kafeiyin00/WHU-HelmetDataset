@@ -34,7 +34,7 @@ Coordinate systems involved in the Helmet system.
 
 | Scenes | Bag Links | Scanner Type |
 |--|--|--|
-| 1_forest | [1_forest_2021-12-06-11-10-14.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111016) ; [1_forest_2021-12-06-11-10-14.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111015)|Livox AVIA
+| 1_forest | [1_forest_2021-12-06-11-10-14.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111016) ; [1_forest_2021-12-06-11-10-14.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111015)|Livox Mid70
 | 2_mountain | [2_mountain_2021-11-12-12-31-45.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111018) ; [2_mountain_2021-11-12-12-31-45.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/111017)|Livox Mid70
 |3.1_underground_tunnel|[3.1_underground_tunnel_2021-11-14-10-21-01.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111019)|Livox Mid70
 |3.2_underground_park|[3.2_underground_park_2021-12-29-15-05-33.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111022) ; [3.3_underground_subway_2021-12-29-16-19-51.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/111021)|Livox AVIA
