@@ -49,6 +49,8 @@ Coordinate systems involved in the Helmet system.
 
 If you need GT files, please send us a E-mail with your organization information to (kafeiyin00@gmail.com).  
 
+!!! For users who can not download the data, please try the Baidu Disk: 链接: https://pan.baidu.com/s/19DxICp_eBilBtZN6IwWFIQ?pwd=kp99 提取码: kp99
+
 
 ## 2.1 Forest
 
