@@ -47,7 +47,9 @@ Coordinate systems involved in the Helmet system.
 |6.3_roadside_mall|[6.3_roadside_mall_2021-12-29-10-32-35.7z.001](https://researchdata.ntu.edu.sg/api/access/datafile/112272);[6.3_roadside_mall_2021-12-29-10-32-35.7z.002](https://researchdata.ntu.edu.sg/api/access/datafile/112271)|Livox AVIA
 
 
-If you need GT files, please send us a E-mail with your organization information to (kafeiyin00@gmail.com).  
+If you have questions, please send us an E-mail to (lijianping@whu.edu.cn).  
+
+!!! To download GT files: 链接: https://pan.baidu.com/s/1tZMM1KpWNpiaqmJSEJwZ-A?pwd=mbvc 提取码: mbvc 
 
 !!! For users who can not download the data, please try the Baidu Disk: 链接: https://pan.baidu.com/s/19DxICp_eBilBtZN6IwWFIQ?pwd=kp99 提取码: kp99
 
